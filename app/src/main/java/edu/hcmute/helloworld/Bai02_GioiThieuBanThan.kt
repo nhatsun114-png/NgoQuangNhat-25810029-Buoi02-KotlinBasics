@@ -5,5 +5,5 @@ fun main() {
     val namHienTai: Int = 2026
     val tuoi: Int = namHienTai - namSinh
 
-    println("Xin chào thầy, em tên là $hoTen. Năm nay tôi $tuoi tuổi.")
+    println("Xin chào thầy, em tên là $hoTen. Năm nay em $tuoi tuổi.")
 }
